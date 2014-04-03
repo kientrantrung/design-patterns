@@ -1,6 +1,6 @@
 This project contains examples from the book Design Patterns: Elements of Reusable Object-Oriented Software, GoF.
 I reimplemented those examples in JAVA (with some slight changes to make them really runable). 
-The purpose is to make them useful for people who are familiar with JAVA but not with C++.
+The purpose is to make it useful for people who are familiar with JAVA but not with C++.
 The project is ready to be imported in Eclipse.
 
 
